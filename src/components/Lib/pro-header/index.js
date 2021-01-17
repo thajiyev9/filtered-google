@@ -1,6 +1,5 @@
 import React from 'react';
-import { Layout, Button } from 'antd';
-import { ProButton } from 'components/Lib';
+import { Layout } from 'antd';
 import styles from './Header.scss';
 const { Header } = Layout;
 
