@@ -1,0 +1,11 @@
+.ExcludeSearch {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .item {
+        margin-bottom: 25px;
+    }
+}

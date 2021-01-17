@@ -1,0 +1,17 @@
+.Header {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .title {
+        font-size: 30px;
+        font-weight: 500;
+        margin-bottom: 0px;
+    }
+
+    .subTitle {
+        font-size: 30px;
+    }
+}

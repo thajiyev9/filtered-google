@@ -1,0 +1,23 @@
+.Sidebar {
+  height: 94vh;
+  background-color: #9fc8ce73;
+
+  .titleContainer {
+    widtH: 100%;
+    padding: 20px 40px;
+    border-bottom: 1px solid white;
+
+  .title {
+    color: #373737;
+    font-weight: 700;
+    font-size: 25px;
+    width: 100%;
+  }
+}
+  .container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,24 @@
+
+.Header {
+  background-color: #00838F;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+
+  .left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .signIn {
+      margin-right: 10px;
+    }
+  }
+}
+
